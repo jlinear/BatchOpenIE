@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="BatchOpenIE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BatchOpenIE_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BatchOpenIE.jar">
+        <element id="module-output" name="BatchOpenIE" />
+      </element>
+      <element id="library" level="project" name="stanford-corenlp-full-2018-02-27" />
+      <element id="module-output" name="BatchOpenIE" />
+    </root>
+  </artifact>
+</component>
